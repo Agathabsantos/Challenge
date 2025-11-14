@@ -4,6 +4,15 @@ Arena Fantástica é um mini-RPG em Swift desenvolvido para rodar no console. O 
 
 ---
 
+## Objetivo do projeto
+
+- Aplicar os conceitos das quatro primeiras aulas de Swift  
+- Demonstrar lógica, decisões, coleções e funções  
+- Criar um jogo simples, funcional e compreensível  
+- Desenvolver organização e clareza no código 
+
+---
+
 ## Visão geral do jogo
 
 O jogador inicia informando seu nome e escolhendo uma classe entre:
@@ -103,12 +112,5 @@ Inimigos são gerados de forma aleatória usando arrays. Poções, ouro e inimig
     O Slime foi derrotado!
     Você recebeu 12 moedas de ouro.
 
----
-
-## Objetivo do projeto
-
-- Aplicar os conceitos das quatro primeiras aulas de Swift  
-- Demonstrar lógica, decisões, coleções e funções  
-- Criar um jogo simples, funcional e compreensível  
-- Desenvolver organização e clareza no código  
+ 
 
