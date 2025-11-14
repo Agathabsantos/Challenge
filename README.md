@@ -74,13 +74,6 @@ Inimigos são gerados de forma aleatória usando arrays. Poções, ouro e inimig
 
 ---
 
-## Estrutura do projeto
-
-ArenaFantastica/  
-└── main.swift
-
----
-
 ## Exemplo de Gameplay
 
     Bem-vinda à Arena Fantástica!
