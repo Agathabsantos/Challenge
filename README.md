@@ -75,42 +75,40 @@ Inimigos são gerados de forma aleatória usando arrays. Poções, ouro e inimig
 ---
 
 ## Estrutura do projeto
-   ArenaFantastica/
-    └── main.swift
-    
-O projeto é mantido simples para refletir os conteúdos introdutórios de Swift e facilitar a leitura e compreensão.
+
+ArenaFantastica/  
+└── main.swift
 
 ---
 
-## Exemplos de gameplay
+## Exemplo de Gameplay
 
-Bem-vinda à Arena Fantástica!
-Digite o nome do seu herói:
-> Agatha
+    Bem-vinda à Arena Fantástica!
+    Digite o nome do seu herói:
+    > Agatha
 
-Escolha sua classe:
-1 - Guerreiro
-2 - Mago
-3 - Arqueiro
-> 2
+    Escolha sua classe:
+    1 - Guerreiro
+    2 - Mago
+    3 - Arqueiro
+    > 2
 
-Você é Agatha, a Maga!
-Vida: 25
-Ataque base: 10
+    Você é Agatha, a Maga!
+    Vida: 25
+    Ataque base: 10
 
-Um Slime aparece com 8 de vida!
-Sua vida: 25/25
-Vida do Slime: 8
-Poções: 3
-1 - Atacar
-2 - Usar poção
-3 - Fugir
-> 1
+    Um Slime aparece com 8 de vida!
+    Sua vida: 25/25
+    Vida do Slime: 8
+    Poções: 3
+    1 - Atacar
+    2 - Usar poção
+    3 - Fugir
+    > 1
 
-Você ataca e causa 10 de dano!
-O Slime foi derrotado!
-Você recebeu 12 moedas de ouro.
-
+    Você ataca e causa 10 de dano!
+    O Slime foi derrotado!
+    Você recebeu 12 moedas de ouro.
 
 ---
 
@@ -120,12 +118,4 @@ Você recebeu 12 moedas de ouro.
 - Demonstrar lógica, decisões, coleções e funções  
 - Criar um jogo simples, funcional e compreensível  
 - Desenvolver organização e clareza no código  
-
-
-## Objetivo do projeto
-
-- Aplicar os conceitos das quatro primeiras aulas de Swift  
-- Demonstrar lógica básica, controle de fluxo e manipulação de coleções  
-- Criar um jogo simples, funcional e compreensível  
-- Desenvolver organização e clareza no código desde o início da aprendizagem  
 
